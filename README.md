@@ -12,6 +12,12 @@ The analysis includes data preparation using SQL, dashboard development in Power
 
 ---
 
+## 📂 Dataset
+
+> **Note:** The original datasets are not included in this repository because they exceed GitHub's file size limits. The repository includes the SQL scripts, Power BI dashboard, exported analysis, and final report to demonstrate the complete analytical workflow.
+
+---
+
 # 🎯 Business Objectives
 
 This project addresses the following business questions:
@@ -145,10 +151,6 @@ The analysis enables stakeholders to:
 content-performance-analysis/
 │
 ├── README.md
-│
-├── Main Data/
-│   └── catalog.xlsx
-│   └── viewership.xlsx
 │
 ├── SQL Codes/
 │   └── average_completion rate_per_source.sql
